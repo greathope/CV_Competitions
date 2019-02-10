@@ -4,7 +4,7 @@
 
 Active Competitons to join |Category|Platform|Join deadline|Prize money|Baseline
 |----|----|----|----|----|----
-[第二届中国“高分杯”美丽乡村大赛](https://dianshi.baidu.com/competition/28/rule)|Classification|dianshi|2019.02.28|¥850000|None
+[第二届中国“高分杯”美丽乡村大赛](https://dianshi.baidu.com/competition/28/rule)|Classification|dianshi|2019.02.28|¥85000|None
 [智能盘点—钢筋数量AI识别](https://www.datafountain.cn/competitions/332/details/rank?sch=1416&page=1&type=A)|Detection|datafountain|2019.03.16 23:59:59|¥160000|[0.97+](https://github.com/spytensor/detect_steel_bar)
 [大数据医疗——肝癌影像AI诊断](https://www.datafountain.cn/competitions/335/details)|Classification|datafountain|2019.03.24 23:59:59|¥160000|[0.79](https://github.com/chenyiyong1024/datafountain_liver_cancer_diagnosis_challenge)
 [文化传承—汉字书法多场景识别](https://www.datafountain.cn/competitions/334/details)|Detection and Recognition|datafountain|2019.03.24 23:59:59|¥160000|[未知](https://github.com/Tianxiaomo/Cultural_Inheritance-Recognizing_Chinese_Calligraphy_in_Multiple_Scenarios)
