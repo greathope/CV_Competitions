@@ -9,7 +9,9 @@ Active Competitons to join |Category|Platform|Join deadline|Prize money|Baseline
 [大数据医疗——肝癌影像AI诊断](https://www.datafountain.cn/competitions/335/details)|Classification|datafountain|2019.03.24 23:59:59|¥160000|[0.79](https://github.com/chenyiyong1024/datafountain_liver_cancer_diagnosis_challenge)
 [文化传承—汉字书法多场景识别](https://www.datafountain.cn/competitions/334/details)|Detection and Recognition|datafountain|2019.03.24 23:59:59|¥160000|[未知](https://github.com/Tianxiaomo/Cultural_Inheritance-Recognizing_Chinese_Calligraphy_in_Multiple_Scenarios)<br>[0.42](https://github.com/DataFountainCode/huawei_code_share)
 [津南数字制造算法挑战赛——赛场二：物流货物限制品监测](https://tianchi.aliyun.com/competition/entrance/231703/introduction)|Detection and Segmentation|天池|2019.03.25 12:00 |¥200000|[0.5](https://blog.csdn.net/sinat_35512245/article/details/88188365)
+[2019未来杯高校AI挑战赛: 图像-发现超新星](https://ai.futurelab.tv/contest_detail/1#contest_index)|Object detection|Futurelab|2019.03.29|¥100000|None
 [短视频内容理解与推荐竞赛](https://www.biendata.com/competition/icmechallenge2019/)|recommendation|biendata|2019.04.01|$20000|[官方](https://github.com/challenge-ICME2019-Bytedance/Bytedance_ICME_challenge)<br>[0.72](https://github.com/EliasCai/bytedance-icme)<br>[0.77](https://github.com/shenweichen/Bytedance_ICME2019_challenge_baseline)
 [IJCAI-19 阿里巴巴人工智能对抗算法竞赛](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281949.0.0.44a576d8Lpxb8v)|Classification|天池|2019.04.20 10:00|$39000|None
+
 
 
