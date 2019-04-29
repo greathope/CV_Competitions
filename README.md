@@ -14,6 +14,7 @@ Competitons|Category|Platform|Join deadline|Prize money|Baseline|Resources |Top 
 [2019 iQIYI Celebrity Video Identification Challenge](http://challenge.ai.iqiyi.com/detail?raceId=5c767dc41a6fa0ccf53922e7)|Recognition|爱奇艺|2019.05.10|$6,000|None|[爱奇艺多模态视频人物识别挑战赛](http://challenge.ai.iqiyi.com/detail?raceId=5afc36639689443e8f815f9e)
 [基于虚拟仿真环境下的自动驾驶交通标志识别](https://www.datafountain.cn/competitions/339/details)|Detection|datafountain|2019.05.28 23:59:59|¥10,000|None|
 [阿里巴巴优酷视频增强和超分辨率挑战赛](https://tianchi.aliyun.com/competition/entrance/231711/introduction?spm=5176.12281949.1003.1.181476d8MgXiXW)|Super-resolution|天池|2019.06.16 12:00|¥230000|None|[Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
+[基于遥感影像和用户行为的城市区域功能分类](http://www.ikcest.org/bigdata2019/?from=007)|Classification|dianshi|2019.06.25|¥150000|None|[PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
 
 
 
