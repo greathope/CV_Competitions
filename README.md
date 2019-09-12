@@ -3,7 +3,7 @@
 
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 [2019广东工业智造创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231748/introduction)|Detection|Tianchi|2019.09.20|¥500000| 低
 [Apache Flink极客挑战赛——垃圾图片分类](https://tianchi.aliyun.com/competition/entrance/231743/introduction)|Classification|Tianchi|2019.10.11|¥200000| 低
 [机器图像算法赛道-云状识别](https://www.datafountain.cn/competitions/357)|Classification|DF|2019.10.31|¥500000| 中
