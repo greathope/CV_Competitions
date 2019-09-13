@@ -6,15 +6,18 @@
 |----|----|----|----|----|----|
 [2019广东工业智造创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231748/introduction)|Detection|Tianchi|2019.09.20|¥500000| 低
 [Apache Flink极客挑战赛——垃圾图片分类](https://tianchi.aliyun.com/competition/entrance/231743/introduction)|Classification|Tianchi|2019.10.11|¥200000| 低
-[机器图像算法赛道-云状识别](https://www.datafountain.cn/competitions/357)|Classification|DF|2019.10.31|¥500000| 中
-[机器图像算法赛道-天气识别](https://www.datafountain.cn/competitions/356)|Classification|DF|2019.10.31|¥500000| 中
+[机器图像算法赛道-云状识别](https://www.datafountain.cn/competitions/357)|Classification|DF|2019.10.31|¥50000| 中
+[机器图像算法赛道-天气识别](https://www.datafountain.cn/competitions/356)|Classification|DF|2019.10.31|¥50000| 中
 [卫星云图+地面观测云图预测辐照量](https://www.datafountain.cn/competitions/362)|Classification|DF|2019.10.30|¥70000| 高
 [视频版权检测算法](https://www.datafountain.cn/competitions/354)|复杂|DF|2019.10.30|¥50000| 高
 [多人种人脸识别](https://www.datafountain.cn/competitions/348)|Classification|DF|2019.10.25|¥50000| 中
 [基于OCR的身份证要素提取](https://www.datafountain.cn/competitions/346)|OCR|DF|2019.10.25|¥100000| 高
 [雪豹识别全球挑战赛](https://jdata.jd.com/html/detail.html?id=9)|Classification|JDATA|2019.10.25|¥100000| 高
 
-
+## 竞争可能不太激烈的Workshop
+比赛|类别|平台|报名截止|有无奖金|挂靠
+|----|----|----|----|----|----|
+[NightOwls Pedestrian Detection Challenge 2019](https://competitions.codalab.org/competitions/21231#learn_the_details)|Detection|Codalab|2019.10.13|有|ICCV 2019
 
 
 ## Due
