@@ -9,6 +9,7 @@
 [2019年“创青春·交子杯”新网银行高校金融科技挑战赛-AI算法赛道](https://www.dcjingsai.com/common/cmpt/2019%E5%B9%B4%E2%80%9C%E5%88%9B%E9%9D%92%E6%98%A5%C2%B7%E4%BA%A4%E5%AD%90%E6%9D%AF%E2%80%9D%E6%96%B0%E7%BD%91%E9%93%B6%E8%A1%8C%E9%AB%98%E6%A0%A1%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E6%8C%91%E6%88%98%E8%B5%9B-AI%E7%AE%97%E6%B3%95%E8%B5%9B%E9%81%93_%E8%B5%9B%E4%BD%93%E4%B8%8E%E6%95%B0%E6%8D%AE.html)|Classification|DC|2019.11.15|¥235000| 高
 [首届“全国人工智能大赛”（行人重识别 Person ReID 赛项）](https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be)|Reid|kesci|2019.11.29|¥2680000| X年难遇
 [首届“全国人工智能大赛”（AI+4K HDR赛项](https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a)|SR|kesci|2019.11.29|¥2680000| X年难遇
+[U-RISC 神经元识别大赛](https://www.biendata.com/competition/urisc/)|Edge Detection|biendata|2019.01.12|¥100000| 中
 
 ## 竞争可能不太激烈的Workshop
 比赛|类别|平台|报名截止|有无奖金|挂靠
