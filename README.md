@@ -4,18 +4,10 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[U-RISC 神经元识别大赛](https://www.biendata.com/competition/urisc/)|Edge Detection|biendata|2019.01.12|¥100000| 中
 |[中国华录杯——定向算法赛(人群密度检测)](https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada)|Regression|kesci|2019.01.29|¥160000| 高
 |[中国华录杯——定向算法赛（人体摔倒姿态识别）](https://www.kesci.com/home/competition/5df99c5aea206700353c5de8)|Classification |kesci|2019.01.29|¥160000| 高
 |[智能算法赛：瓶装白酒疵品质检](https://tianchi.aliyun.com/competition/entrance/231763/introduction)|Detection|天池|2019.02.10|¥330000| 中
-
-
-
-## 竞争可能不太激烈的Workshop
-比赛|类别|平台|报名截止|有无奖金|挂靠
-|----|----|----|----|----|----|
-[NightOwls Pedestrian Detection Challenge 2019](https://competitions.codalab.org/competitions/21231#learn_the_details)|Detection|Codalab|2019.10.13|有|ICCV 2019
-
+|[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.03.26|¥240000| 中
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -49,3 +41,9 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 | [“华为云杯”2019人工智能创新应用大赛](https://competition.huaweicloud.com/information/1000021526/introduction)|Classification|huaweicloud|2019.11.26|¥330000|高
 |[首届“全国人工智能大赛”（行人重识别 Person ReID 赛项）](https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be)|Reid|kesci|2019.11.29|¥2680000| X年难遇
 |[首届“全国人工智能大赛”（AI+4K HDR赛项](https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a)|SR|kesci|2019.11.29|¥2680000| X年难遇
+|[U-RISC 神经元识别大赛](https://www.biendata.com/competition/urisc/)|Edge Detection|biendata|2019.01.12|¥100000| 中
+
+## 竞争可能不太激烈的Workshop
+比赛|类别|平台|报名截止|有无奖金|挂靠
+|----|----|----|----|----|----|
+[NightOwls Pedestrian Detection Challenge 2019](https://competitions.codalab.org/competitions/21231#learn_the_details)|Detection|Codalab|2019.10.13|有|ICCV 2019
