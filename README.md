@@ -4,10 +4,11 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[智能算法赛：瓶装白酒疵品质检](https://tianchi.aliyun.com/competition/entrance/231763/introduction)|Detection|天池|2019.02.10|¥330000| 中
-|[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.03.26|¥240000| 中
+|[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.05.06|¥240000| 中
 |[水下目标检测算法赛（光学图像赛项）](https://www.kesci.com/home/competition/5e535a612537a0002ca864ac)|Detection|kesci|2020.04.11|¥360000| 极高
 |[水下目标检测算法赛（声学图像赛项）](https://www.kesci.com/home/competition/5e532ac62537a0002ca859a6)|Detection |kesci|2020.04.11|¥360000| 极高
+|[生活垃圾图片分类](https://www.sodic.com.cn/subject_explain.html)|Classification |huaweiyun|2020.05.04|¥180000| 中
+|[粤港澳大湾区强降水临近预测](https://www.sodic.com.cn/subject_explain.html)|复杂 |huaweiyun|2020.05.04|¥180000| 中
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -44,6 +45,7 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 |[U-RISC 神经元识别大赛](https://www.biendata.com/competition/urisc/)|Edge Detection|biendata|2019.01.12|¥100000| 中
 |[中国华录杯——定向算法赛(人群密度检测)](https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada)|Regression|kesci|2019.01.29|¥160000| 高
 |[中国华录杯——定向算法赛（人体摔倒姿态识别）](https://www.kesci.com/home/competition/5df99c5aea206700353c5de8)|Classification |kesci|2019.01.29|¥160000| 高
+|[智能算法赛：瓶装白酒疵品质检](https://tianchi.aliyun.com/competition/entrance/231763/introduction)|Detection|天池|2019.02.10|¥330000| 中
 
 ## 竞争可能不太激烈的Workshop
 比赛|类别|平台|报名截止|有无奖金|挂靠
