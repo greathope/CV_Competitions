@@ -4,10 +4,13 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.05.06|¥240000| 中
 |[生活垃圾图片分类](https://www.sodic.com.cn/subject_explain.html)|Classification |huaweiyun|2020.05.04|¥180000| 中
 |[粤港澳大湾区强降水临近预测](https://www.sodic.com.cn/subject_explain.html)|复杂 |huaweiyun|2020.05.04|¥180000| 中
 |[图像——海洋生物探索](https://ai.futurelab.tv/contest_detail/18)|Classification|futurelab|2020.06.15|¥144000| 低
+|[视频特定点位跟踪](http://challenge.ai.mgtv.com/contest/detail)|Tracking|MGTV|2020.06.15|¥479000| 高
+|[视频推荐](http://challenge.ai.mgtv.com/contest/detail)|Recommendation|MGTV|2020.06.15|¥360000| 中
+|[画质损伤修复](http://challenge.ai.mgtv.com/contest/detail)|SR|MGTV|2020.06.15|¥360000| 中
+
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -47,6 +50,7 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 |[智能算法赛：瓶装白酒疵品质检](https://tianchi.aliyun.com/competition/entrance/231763/introduction)|Detection|天池|2019.02.10|¥330000| 中
 |[水下目标检测算法赛（光学图像赛项）](https://www.kesci.com/home/competition/5e535a612537a0002ca864ac)|Detection|kesci|2020.04.11|¥360000| 极高
 |[水下目标检测算法赛（声学图像赛项）](https://www.kesci.com/home/competition/5e532ac62537a0002ca859a6)|Detection |kesci|2020.04.11|¥360000| 极高
+|[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.05.06|¥240000| 中
 
 ## 竞争可能不太激烈的Workshop
 比赛|类别|平台|报名截止|有无奖金|挂靠
