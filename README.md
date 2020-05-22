@@ -10,7 +10,10 @@
 |[视频特定点位跟踪](http://challenge.ai.mgtv.com/contest/detail)|Tracking|MGTV|2020.06.15|¥479000| 高
 |[视频推荐](http://challenge.ai.mgtv.com/contest/detail)|Recommendation|MGTV|2020.06.15|¥360000| 中
 |[画质损伤修复](http://challenge.ai.mgtv.com/contest/detail)|SR|MGTV|2020.06.15|¥360000| 中
-
+|[首届“征图杯”校园机器视觉人工智能大赛](https://www.marsbigdata.com/competition/details?id=5293671830016)|Detection|Mars|2020.08.08|¥1000000| 极高
+|[“华录杯”SEED江苏大数据开发与应用大赛——癌症风险智能诊断](https://www.marsbigdata.com/competition/details?id=5815639985152)|Detection|Mars|2020.08.20|¥250000| 中
+|[“华录杯”SEED江苏大数据开发与应用大赛——违法广告信息检测](https://www.marsbigdata.com/competition/details?id=5437869062144)|Detection|Mars|2020.08.20|¥250000| 中
+|[“华录杯”SEED江苏大数据开发与应用大赛——基于车联网视频数据的交通事件检测](https://www.marsbigdata.com/competition/details?id=5435622313984)|Detection|Mars|2020.08.20|¥250000| 中
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
