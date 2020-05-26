@@ -11,9 +11,13 @@
 |[视频推荐](http://challenge.ai.mgtv.com/contest/detail)|Recommendation|MGTV|2020.06.15|¥360000| 中
 |[画质损伤修复](http://challenge.ai.mgtv.com/contest/detail)|SR|MGTV|2020.06.15|¥360000| 中
 |[首届“征图杯”校园机器视觉人工智能大赛](https://www.marsbigdata.com/competition/details?id=5293671830016)|Detection|Mars|2020.08.08|¥1000000| 极高
-|[“华录杯”SEED江苏大数据开发与应用大赛——癌症风险智能诊断](https://www.marsbigdata.com/competition/details?id=5815639985152)|Detection|Mars|2020.08.20|¥250000| 中
-|[“华录杯”SEED江苏大数据开发与应用大赛——违法广告信息检测](https://www.marsbigdata.com/competition/details?id=5437869062144)|Detection|Mars|2020.08.20|¥250000| 中
-|[“华录杯”SEED江苏大数据开发与应用大赛——基于车联网视频数据的交通事件检测](https://www.marsbigdata.com/competition/details?id=5435622313984)|Detection|Mars|2020.08.20|¥250000| 中
+|[癌症风险智能诊断](https://www.marsbigdata.com/competition/details?id=5815639985152)|Detection|Mars|2020.08.20|¥250000| 中
+|[违法广告信息检测](https://www.marsbigdata.com/competition/details?id=5437869062144)|Detection|Mars|2020.08.20|¥250000| 中
+|[基于车联网视频数据的交通事件检测](https://www.marsbigdata.com/competition/details?id=5435622313984)|Detection|Mars|2020.08.20|¥250000| 中
+|[脊柱疾病智能诊断大赛](https://tianchi.aliyun.com/competition/entrance/531796/introduction?spm=5176.12281949.1003.4.493e39e17DPDRQ)|Keypoints Detection|Tianchi|2020.07.20|¥460000| 高
+|[视频时序事件检测赛道](https://tianchi.aliyun.com/competition/entrance/531798/introduction?spm=5176.12281949.1003.1.493e39e17DPDRQ)|Detection|Tianchi|2020.07.12|¥190000| 低
+|[高精度视频人物分割赛道](https://tianchi.aliyun.com/competition/entrance/531797/introduction?spm=5176.12281949.1003.2.493e39e17DPDRQ)|Segmentation|Tianchi|2020.07.12|¥190000| 低
+
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
