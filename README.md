@@ -4,12 +4,6 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[生活垃圾图片分类](https://www.sodic.com.cn/subject_explain.html)|Classification |huaweiyun|2020.05.04|¥180000| 中
-|[粤港澳大湾区强降水临近预测](https://www.sodic.com.cn/subject_explain.html)|复杂 |huaweiyun|2020.05.04|¥180000| 中
-|[图像——海洋生物探索](https://ai.futurelab.tv/contest_detail/18)|Classification|futurelab|2020.06.15|¥144000| 低
-|[视频特定点位跟踪](http://challenge.ai.mgtv.com/contest/detail)|Tracking|MGTV|2020.06.15|¥479000| 高
-|[视频推荐](http://challenge.ai.mgtv.com/contest/detail)|Recommendation|MGTV|2020.06.15|¥360000| 中
-|[画质损伤修复](http://challenge.ai.mgtv.com/contest/detail)|SR|MGTV|2020.06.15|¥360000| 中
 |[首届“征图杯”校园机器视觉人工智能大赛](https://www.marsbigdata.com/competition/details?id=5293671830016)|Detection|Mars|2020.08.08|¥1000000| 极高
 |[癌症风险智能诊断](https://www.marsbigdata.com/competition/details?id=5815639985152)|Detection|Mars|2020.08.20|¥250000| 中
 |[违法广告信息检测](https://www.marsbigdata.com/competition/details?id=5437869062144)|Detection|Mars|2020.08.20|¥250000| 中
@@ -17,7 +11,10 @@
 |[脊柱疾病智能诊断大赛](https://tianchi.aliyun.com/competition/entrance/531796/introduction?spm=5176.12281949.1003.4.493e39e17DPDRQ)|Keypoints Detection|Tianchi|2020.07.20|¥460000| 高
 |[视频时序事件检测赛道](https://tianchi.aliyun.com/competition/entrance/531798/introduction?spm=5176.12281949.1003.1.493e39e17DPDRQ)|Detection|Tianchi|2020.07.12|¥190000| 低
 |[高精度视频人物分割赛道](https://tianchi.aliyun.com/competition/entrance/531797/introduction?spm=5176.12281949.1003.2.493e39e17DPDRQ)|Segmentation|Tianchi|2020.07.12|¥190000| 低
-
+|[视频广告场景识别挑战赛](http://challenge.xfyun.cn/topic/info?type=Ad)|Detection|Xfyun|2020.08.20|¥77500| 中
+|[X光安检图像识别挑战赛](http://challenge.xfyun.cn/topic/info?type=Xray)|Detection|Xfyun|2020.08.20|¥77500| 中
+|[自然场景文字检测挑战赛](http://challenge.xfyun.cn/topic/info?type=text-detect)|Detection|Xfyun|2020.08.20|¥77500| 中
+|[脑PET图像分析和疾病预测挑战赛](http://challenge.xfyun.cn/topic/info?type=PET)|Classification|Xfyun|2020.08.20|¥77500| 中
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -58,8 +55,10 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 |[水下目标检测算法赛（光学图像赛项）](https://www.kesci.com/home/competition/5e535a612537a0002ca864ac)|Detection|kesci|2020.04.11|¥360000| 极高
 |[水下目标检测算法赛（声学图像赛项）](https://www.kesci.com/home/competition/5e532ac62537a0002ca859a6)|Detection |kesci|2020.04.11|¥360000| 极高
 |[【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)|复杂|天池|2020.05.06|¥240000| 中
+|[生活垃圾图片分类](https://www.sodic.com.cn/subject_explain.html)|Classification |huaweiyun|2020.05.04|¥180000| 中
+|[粤港澳大湾区强降水临近预测](https://www.sodic.com.cn/subject_explain.html)|复杂 |huaweiyun|2020.05.04|¥180000| 中
+|[图像——海洋生物探索](https://ai.futurelab.tv/contest_detail/18)|Classification|futurelab|2020.06.15|¥144000| 低
+|[视频特定点位跟踪](http://challenge.ai.mgtv.com/contest/detail)|Tracking|MGTV|2020.06.15|¥479000| 高
+|[视频推荐](http://challenge.ai.mgtv.com/contest/detail)|Recommendation|MGTV|2020.06.15|¥360000| 中
+|[画质损伤修复](http://challenge.ai.mgtv.com/contest/detail)|SR|MGTV|2020.06.15|¥360000| 中
 
-## 竞争可能不太激烈的Workshop
-比赛|类别|平台|报名截止|有无奖金|挂靠
-|----|----|----|----|----|----|
-[NightOwls Pedestrian Detection Challenge 2019](https://competitions.codalab.org/competitions/21231#learn_the_details)|Detection|Codalab|2019.10.13|有|ICCV 2019
