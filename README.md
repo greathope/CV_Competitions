@@ -15,6 +15,9 @@
 |[X光安检图像识别挑战赛](http://challenge.xfyun.cn/topic/info?type=Xray)|Detection|Xfyun|2020.08.20|¥77500| 中
 |[自然场景文字检测挑战赛](http://challenge.xfyun.cn/topic/info?type=text-detect)|Detection|Xfyun|2020.08.20|¥77500| 中
 |[脑PET图像分析和疾病预测挑战赛](http://challenge.xfyun.cn/topic/info?type=PET)|Classification|Xfyun|2020.08.20|¥77500| 中
+|[基于车载视频图像的动态路况分析](https://tianchi.aliyun.com/competition/entrance/531809/introduction?spm=5176.12281949.1003.6.493e211dAcsaaQ)|Classification|Tianchi|2020.08.28|¥140000| 中
+|[吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)|Detection|ehualu|2020.10.30|¥210000| 高
+|[车道线识别](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1)|Segmentation|ehualu|2020.10.15|¥210000| 中(限paddle)
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
