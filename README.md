@@ -16,6 +16,11 @@
 |[吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)|Detection|ehualu|2020.10.30|¥210000| 高
 |[车道线识别](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1)|Segmentation|ehualu|2020.10.15|¥210000| 中(限paddle)
 |[数码设备图像检索](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101592535978459755)|Retrieval|huaweiyun|2020.09.20|$79000| 高(限学生)
+|[视频生成挑战赛](https://zhejianglab.aliyun.com/entrance/531817/introduction?spm=5176.12281949.1003.2.2b58c3416NK72Y)|Generation|ZJLAB|2020.09.30|¥650000|高
+|[零样本目标分割](https://zhejianglab.aliyun.com/entrance/531816/introduction?spm=5176.12281949.1003.4.2b58c3416NK72Y)|Segmentation|ZJLAB|2020.09.30|¥650000|高
+|[AI+行人重识别](https://www.datafountain.cn/competitions/454)|ReID|DF|2020.10.15|¥1980000|X年难遇
+|[AI+遥感影像](https://www.datafountain.cn/competitions/457)|Segmentation|DF|2020.10.15|¥1980000|X年难遇
+
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
