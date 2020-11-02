@@ -4,15 +4,9 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)|Detection|ehualu|2020.10.30|¥210000| 高
-|[车道线识别](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1)|Segmentation|ehualu|2020.10.15|¥210000| 中(限paddle)
-|[数码设备图像检索](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101592535978459755)|Retrieval|huaweiyun|2020.09.20|$79000| 高(限学生)
-|[视频生成挑战赛](https://zhejianglab.aliyun.com/entrance/531817/introduction?spm=5176.12281949.1003.2.2b58c3416NK72Y)|Generation|ZJLAB|2020.09.30|¥650000|高
-|[零样本目标分割](https://zhejianglab.aliyun.com/entrance/531816/introduction?spm=5176.12281949.1003.4.2b58c3416NK72Y)|Segmentation|ZJLAB|2020.09.30|¥650000|高
-|[AI+行人重识别](https://www.datafountain.cn/competitions/454)|ReID|DF|2020.10.15|¥1980000|X年难遇
-|[AI+遥感影像](https://www.datafountain.cn/competitions/457)|Segmentation|DF|2020.10.15|¥1980000|X年难遇
-|[教育手写公式识别](https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4)|OCR|Kesci|2020.10.22 |¥190000|高
-
+|[遥感影像地块分割](https://www.datafountain.cn/competitions/475)|Segmentation|DF|2020.11.30 |¥100000|中(限paddle)
+|[短袖短裤识别](https://www.cvmart.net/race/9922/base)|Detection|DF|2020.11.30 |¥54000|中
+|[小摊贩占道识别](https://www.cvmart.net/race/9923/base)|Detection|DF|2020.11.30 |¥54000|中
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -71,3 +65,11 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 |[自然场景文字检测挑战赛](http://challenge.xfyun.cn/topic/info?type=text-detect)|Detection|Xfyun|2020.08.20|¥77500| 中
 |[脑PET图像分析和疾病预测挑战赛](http://challenge.xfyun.cn/topic/info?type=PET)|Classification|Xfyun|2020.08.20|¥77500| 中
 |[基于车载视频图像的动态路况分析](https://tianchi.aliyun.com/competition/entrance/531809/introduction?spm=5176.12281949.1003.6.493e211dAcsaaQ)|Classification|Tianchi|2020.08.28|¥140000| 中
+|[吸烟打电话检测](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=3)|Detection|ehualu|2020.10.30|¥210000| 高
+|[车道线识别](https://dev.ehualu.com/dev/home/competition/competitionDetail?competitionId=1)|Segmentation|ehualu|2020.10.15|¥210000| 中(限paddle)
+|[数码设备图像检索](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101592535978459755)|Retrieval|huaweiyun|2020.09.20|$79000| 高(限学生)
+|[视频生成挑战赛](https://zhejianglab.aliyun.com/entrance/531817/introduction?spm=5176.12281949.1003.2.2b58c3416NK72Y)|Generation|ZJLAB|2020.09.30|¥650000|高
+|[零样本目标分割](https://zhejianglab.aliyun.com/entrance/531816/introduction?spm=5176.12281949.1003.4.2b58c3416NK72Y)|Segmentation|ZJLAB|2020.09.30|¥650000|高
+|[AI+行人重识别](https://www.datafountain.cn/competitions/454)|ReID|DF|2020.10.15|¥1980000|X年难遇
+|[AI+遥感影像](https://www.datafountain.cn/competitions/457)|Segmentation|DF|2020.10.15|¥1980000|X年难遇
+|[教育手写公式识别](https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4)|OCR|Kesci|2020.10.22 |¥190000|高
