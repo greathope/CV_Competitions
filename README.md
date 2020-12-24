@@ -4,9 +4,8 @@
 ## Active
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
-|[遥感影像地块分割](https://www.datafountain.cn/competitions/475)|Segmentation|DF|2020.11.30 |¥100000|中(限paddle)
-|[短袖短裤识别](https://www.cvmart.net/race/9922/base)|Detection|DF|2020.11.30 |¥54000|中
-|[小摊贩占道识别](https://www.cvmart.net/race/9923/base)|Detection|DF|2020.11.30 |¥54000|中
+|[瓷砖表面瑕疵质检](https://tianchi.aliyun.com/competition/entrance/531846/introduction?spm=5176.12281957.1004.1.38b03eaf62DO10)|Detection|Tianchi|2021.01.28 |¥250000|中
+
 
 ## Due
 Competitons|Category|Platform|Join deadline|Prize money|Note
@@ -73,3 +72,6 @@ Competitons|Category|Platform|Join deadline|Prize money|Note
 |[AI+行人重识别](https://www.datafountain.cn/competitions/454)|ReID|DF|2020.10.15|¥1980000|X年难遇
 |[AI+遥感影像](https://www.datafountain.cn/competitions/457)|Segmentation|DF|2020.10.15|¥1980000|X年难遇
 |[教育手写公式识别](https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4)|OCR|Kesci|2020.10.22 |¥190000|高
+|[遥感影像地块分割](https://www.datafountain.cn/competitions/475)|Segmentation|DF|2020.11.30 |¥100000|中(限paddle)
+|[短袖短裤识别](https://www.cvmart.net/race/9922/base)|Detection|DF|2020.11.30 |¥54000|中
+|[小摊贩占道识别](https://www.cvmart.net/race/9923/base)|Detection|DF|2020.11.30 |¥54000|中
