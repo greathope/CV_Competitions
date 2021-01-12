@@ -5,6 +5,9 @@
 比赛|类别|平台|报名截止|奖金| 性价比
 |----|----|----|----|----|----|
 |[瓷砖表面瑕疵质检](https://tianchi.aliyun.com/competition/entrance/531846/introduction?spm=5176.12281957.1004.1.38b03eaf62DO10)|Detection|Tianchi|2021.01.28 |¥250000|中
+|[医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction?spm=5176.12281957.1004.3.38b03eafxSTfGV)|Complex|Tianchi|2021.04.07 |¥500000|中
+|[PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction?spm=5176.12281957.1004.2.38b03eafxSTfGV)|Tracking|Tianchi|2021.04.07 |¥500000|中
+|[螺母螺栓产品质量智能检测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=17)|Classification|Custom|2021.02.01 |¥100000|低
 
 
 ## Due
