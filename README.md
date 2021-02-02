@@ -8,6 +8,8 @@
 |[医学影像报告异常检测](https://tianchi.aliyun.com/competition/entrance/531852/introduction?spm=5176.12281957.1004.3.38b03eafxSTfGV)|Complex|Tianchi|2021.04.07 |¥500000|中
 |[PANDA大场景多对象检测跟踪](https://tianchi.aliyun.com/competition/entrance/531855/introduction?spm=5176.12281957.1004.2.38b03eafxSTfGV)|Tracking|Tianchi|2021.04.07 |¥500000|中
 |[螺母螺栓产品质量智能检测](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=17)|Classification|Custom|2021.02.01 |¥100000|低
+|[“新内容 新交互”全球视频云创新挑战赛-算法挑战赛道](https://tianchi.aliyun.com/competition/entrance/531873/introduction?spm=5176.12281949.1003.1.493e58efoxU0sU)|Segmentation|Tianchi|2021.04.14 |¥200000|低
+|[2021全国数字生态创新大赛智能算法赛：生态资产智能分析](https://tianchi.aliyun.com/competition/entrance/531860/introduction?spm=5176.12281949.1003.7.493e22ccT42BGA)|Segmentation|Tianchi|2021.03.10 |¥250000|低
 
 
 ## Due
